@@ -13,8 +13,9 @@ def areasquare(side):
     '''
         objective : to find the area of square
        input parameters :
-                    side of square
-       return value: area of square    '''
+                    side of square.
+       return value: area of square.
+      '''
      #approach: multiply side by side of square
     area = side * side
     return area
@@ -22,8 +23,8 @@ def areatriangle(base,height):
     '''
        objective : to find the area of triangle
        input parameters :
-                    base of triangle
-                    height of triangle
+                        base of triangle.
+                        height of triangle.
        return value: area of triangle
     '''
     #approach: multiply base and height of triangle
