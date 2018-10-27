@@ -3,6 +3,9 @@
 list2=[]
 def rec(list1):
     length=len(list1)
+    '''
+        length- calculating length og list
+    '''
     if list1==[]:
         return list2
     else:
