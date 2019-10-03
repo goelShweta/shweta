@@ -1,9 +1,12 @@
 i=0
 def sort_fun(list1):
     '''
-       Objective :to sort the list
-       input parameters : list
-       output : sorted list
+       Objective 
+               to sort the list
+       input parameters  
+               list
+       output 
+               sorted list
     '''
     min=list1[i]
     for i in range(len(list1)) :
