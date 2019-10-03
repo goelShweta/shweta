@@ -6,5 +6,5 @@ def rec(list1):
     if list1==[]:
         return list2
     else:
-        list2.append(list1[length-1])
-        return rec(list1[0:length-1])
+        list2.append(list1[length-2])
+        return rec(list1[0:length-2])
